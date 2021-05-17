@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-Building a calculator with JS
+Building a calculator with JS.
 This project is intended to help me understand the interaction among Html, css and JavaScript by building 
 a simple basic calculator, the README.md portion is also meant to help learn accepted good practice format.
 	
